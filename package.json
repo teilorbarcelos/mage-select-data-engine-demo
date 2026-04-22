@@ -10,8 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.99.2",
+    "lucide-react": "^1.8.0",
+    "mage-select-data-engine": "^1.0.12",
+    "mage-select-data-react": "^1.0.12",
+    "mage-select-data-react-hook-form": "^1.0.12",
     "react": "^19.2.5",
-    "react-dom": "^19.2.5"
+    "react-dom": "^19.2.5",
+    "react-hook-form": "^7.73.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.4",
