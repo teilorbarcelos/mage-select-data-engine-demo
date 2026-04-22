@@ -127,6 +127,7 @@ function AppContent() {
           <a href="https://www.npmjs.com/package/mage-select-data-engine" target="_blank" rel="noreferrer" className="badge-link">mage-select-data-engine</a>
           <a href="https://www.npmjs.com/package/mage-select-data-react" target="_blank" rel="noreferrer" className="badge-link">mage-select-data-react</a>
           <a href="https://www.npmjs.com/package/mage-select-data-react-hook-form" target="_blank" rel="noreferrer" className="badge-link">mage-select-data-rhf</a>
+          <a href="https://github.com/teilorbarcelos/mage-select-data-engine-demo" target="_blank" rel="noreferrer" className="badge-link github" style={{ background: 'rgba(255, 255, 255, 0.05)', color: '#fff', borderColor: 'rgba(255, 255, 255, 0.1)' }}>View on GitHub</a>
         </div>
       </section>
     </div>
